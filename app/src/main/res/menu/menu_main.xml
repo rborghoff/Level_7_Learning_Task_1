@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.level7learningtask1.MainActivity">
+    <item
+        android:id="@+id/homeFragment2"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/rateFragment2"
+        android:icon="@drawable/ic_star_black_24dp"
+        android:title="Rate" />
+</menu>
